@@ -1,0 +1,10 @@
+student, assignment, submission status
+Tyler Perry, Code lab, Pending
+Jotham, Lab 2, Completed
+Malaika Celia, Help lab, Pending
+Lavie Umwari, E-lab, Completed
+Keyla, individual lab, Pending
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
